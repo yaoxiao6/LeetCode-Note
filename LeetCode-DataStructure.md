@@ -1,0 +1,2 @@
+- PriorityQueue
+  - [Example of Uniform Cost Search](https://leetcode.com/problems/minimum-path-sum/discuss/723323/BFS)
